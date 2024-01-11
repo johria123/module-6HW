@@ -1,16 +1,15 @@
 # Weather Dashboard
 
-This weather application will show you the weather for the next five days and the current weather. In this application you can view the temperature in celcius and humidity, and the wind speed for the current city you have searched. 
+This weather application will show the user the weather for the next five days and the current weather as of now. In this application the user can view the temperature in celcius and humidity, and the wind speed for the current city that they have searched up. 
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 
 ## Features
-- styl.css 
+- style.css 
 - reset.css
 - JavaScript
 - Index.html
