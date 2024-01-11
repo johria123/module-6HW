@@ -21,5 +21,5 @@ This weather application will show you the weather for the next five days and th
 
 ## Installation
 
-![screenshot](./Screenshot%202024-01-10%20at%2010.05.17%20PM.png)
+![screenshot](./assets/Screenshot%202024-01-10%20at%2010.05.17%20PM.png)
 [do not forget to visit my page to view the application] (https://github.com/johria123/module-6HW)
