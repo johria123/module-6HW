@@ -31,7 +31,7 @@ button {
     padding: 15px 25px;
     background-color: pink;
     color: darkred;
-    border: none;
+    border: 15px;
     cursor: pointer;
     margin-top: 25px;
     margin-left: 20px;
@@ -61,7 +61,6 @@ div.forecast-entry {
     margin-bottom: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     
-
 
 }
 

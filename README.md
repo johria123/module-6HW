@@ -8,8 +8,6 @@ This weather application will show you the weather for the next five days and th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - styl.css 
@@ -20,6 +18,15 @@ This weather application will show you the weather for the next five days and th
 - weather API
 
 ## Installation
+    1. clone the repository
+    2. install dependencies
+    3. start the application
+
+
+## Usuage
+    1. First open the application in your browser
+    2. Enter any city of your liking and check the weather for that particular city
+    3. Then click on the button to generate the current weather and the weather for the next five days
 
 ![screenshot](./assets/Screenshot%202024-01-10%20at%2010.05.17%20PM.png)
 [do not forget to visit my page to view the application] (https://github.com/johria123/module-6HW)
