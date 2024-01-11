@@ -3,9 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Weather</title>
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-    
+    <div id="weather-dashboard">
+        <h1>Weather dashboard </h1>
+        <form id="search-form">
+            <input type="text" id="city-input" placeholder="Enter city name">
+            <button type="button" onclick="searchWeather()">Search</button>
+        </form>
+        <div id="current-weather"></div>
+        <div id="forecast">
+            <h2>5 Day Forecast</h2>
+            <div id="forecast-entries"></div>
+        </div>
+        <div id="search-history"></div>
+    </div>
+    <script src="./assets/js/script.js"></script>
 </body>
 </html>
